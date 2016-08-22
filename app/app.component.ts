@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
-  template: '<h1>My SECOND Angular 2 App Hurra!</h1>'
+  template: '<h1>Let us start with the Tour of Heroes!</h1>'
 })
 
 export class AppComponent { }
